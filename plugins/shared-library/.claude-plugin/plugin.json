@@ -1,7 +1,7 @@
 {
   "name": "shared-library",
   "description": "Shared skills, commands, and agents pooled by the group. Everyone's contributions benefit everyone.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "ZentricStudio + collaborators"
   }

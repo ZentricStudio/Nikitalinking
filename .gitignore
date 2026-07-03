@@ -3,5 +3,14 @@
 .env.*
 *.pem
 *.key
+*.token
 secrets.*
+**/settings.local.json
+
+# Machine noise
 .DS_Store
+Thumbs.db
+
+# Backups created by the install/backup scripts
+*.backup-*
+home-claude/settings.backup.json

@@ -1,18 +1,18 @@
 {
-  "name": "nikita-linking",
+  "name": "zentric-hub",
   "owner": {
     "name": "ZentricStudio",
     "email": "zentricautomations@gmail.com"
   },
   "metadata": {
-    "description": "Shared private marketplace linking everyone's Claude Code setups. Skills, commands, and agents contributed by anyone here become available to everyone.",
-    "version": "0.1.0"
+    "description": "Private shared hub that links everyone's Claude Code. Skills, commands, and agents added here become available to every linked person and every linked machine.",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "shared-library",
       "source": "./plugins/shared-library",
-      "description": "The common library everyone contributes to. Add your skills, commands, and agents here and they instantly benefit the whole group."
+      "description": "The common library everyone contributes to. Add skills, commands, and agents here and they instantly benefit the whole group."
     }
   ]
 }

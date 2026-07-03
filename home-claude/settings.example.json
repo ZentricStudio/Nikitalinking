@@ -1,0 +1,8 @@
+{
+  "//": "Example shared Claude Code settings. Copy the parts you want into your own ~/.claude/settings.json. NEVER put API keys or secrets in a shared file.",
+  "//permissions": "Uncomment and adjust to pre-approve common commands across the team.",
+  "permissions": {
+    "allow": [],
+    "deny": []
+  }
+}
